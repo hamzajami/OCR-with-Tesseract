@@ -3,9 +3,9 @@ This Jupyter Notebook demonstrates how to perform Optical Character Recognition 
 
 🧠 Features:
 
-Installs Tesseract OCR and required libraries.
-Loads an image from local path.
-Converts the image to grayscale for better text recognition.
-Uses pytesseract to extract text from the image.
-Optionally reads a CSV file for comparison.
-Uses difflib for fuzzy matching or comparing extracted text.
+- Installs Tesseract OCR and required libraries.
+- Loads an image from local path.
+- Converts the image to grayscale for better text recognition.
+- Uses pytesseract to extract text from the image.
+- Optionally reads a CSV file for comparison.
+- Uses difflib for fuzzy matching or comparing extracted text.
